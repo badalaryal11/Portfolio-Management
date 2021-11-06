@@ -7,7 +7,7 @@ In it, users is able to choose a stock name and dropdown menu appers and perform
          4.Quantity
          5.Buying/Selling Price
          Transaction Date
+         
+In it, users is also to show overall profit, Total investment, sold Value (amount), current value (amount) in dashbord in his accountby stock name.
      
-     In it, users is also to show overall profit, Total investment, sold Value (amount), current value (amount) in dashbord in his accountby stock name.
      
-     I
